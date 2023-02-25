@@ -1,0 +1,25 @@
+{
+  "name": "@primate/sessions",
+  "version": "0.1.0",
+  "author": "Terrablue <terrablue@proton.me>",
+  "homepage": "https://primatejs.com/modules/sessions",
+  "bugs": "https://github.com/primatejs/primate-sessions/issues",
+  "repository": "https://github.com/primatejs/primate-sessions",
+  "description": "Primate sessions module",
+  "license": "MIT",
+  "dependencies": {
+    "runtime-compat": "^0.12.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/eslint-parser": "^7.19.1",
+    "@babel/plugin-syntax-import-assertions": "^7.20.0",
+    "eslint": "^8.34.0",
+    "eslint-plugin-json": "^3.1.0"
+  },
+  "type": "module",
+  "exports": "./exports.js",
+  "engines": {
+    "node": ">=17.9.0"
+  }
+}
